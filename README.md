@@ -1,17 +1,25 @@
 # Links 
+
+Deep Learning
+
+http://ufldl.stanford.edu/tutorial/
+
+
 Machine Learning
 
 https://stanford.edu/~shervine/teaching/cs-229.html
 
 http://explained.ai/matrix-calculus/index.html       The Matrix Calculus You Need For Deep Learning
 
-SGD with momentum
-
-https://towardsdatascience.com/stochastic-gradient-descent-with-momentum-a84097641a5d
+Optimizers
 
 http://ruder.io/optimizing-gradient-descent/
 
 https://www.slideshare.net/SebastianRuder/optimization-for-deep-learning
+
+https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+
+https://towardsdatascience.com/stochastic-gradient-descent-with-momentum-a84097641a5d
 
 Capsule Nets:
 
