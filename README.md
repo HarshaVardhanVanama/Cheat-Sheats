@@ -2,6 +2,8 @@
 
 Deep Learning
 
+https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b
+
 http://ufldl.stanford.edu/tutorial/
 
 
