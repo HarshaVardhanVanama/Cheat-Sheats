@@ -14,6 +14,14 @@ http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf
 
 https://stackoverflow.com/questions/38553927/batch-normalization-in-convolutional-neural-network - batch normalization in cnn
 
+Alex Net
+
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+
+https://i0.wp.com/ramok.tech/wp-content/uploads/2017/12/2017-12-31_01h31_40.jpg
+
+http://euler.stat.yale.edu/~tba3/stat665/lectures/lec18/notebook18.html
+
 Machine Learning
 
 https://stanford.edu/~shervine/teaching/cs-229.html
