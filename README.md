@@ -35,6 +35,14 @@ ResNet:
 https://arxiv.org/pdf/1512.03385.pdf
 
 https://github.com/keras-team/keras/blob/master/keras/applications/resnet50.py
+
+Inception Net:
+
+https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py
+
+http://www.ashukumar27.io/CNN-Inception-Network/
+
+https://arxiv.org/pdf/1512.00567.pdf
  
 Machine Learning
 
