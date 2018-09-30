@@ -7,9 +7,12 @@ https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c
 http://ufldl.stanford.edu/tutorial/
 
 Convolution Layer
+
 http://cs231n.github.io/convolutional-networks/
 
 http://www.iro.umontreal.ca/~bengioy/talks/DL-Tutorial-NIPS2015.pdf
+
+https://stackoverflow.com/questions/38553927/batch-normalization-in-convolutional-neural-network - batch normalization in cnn
 
 Machine Learning
 
