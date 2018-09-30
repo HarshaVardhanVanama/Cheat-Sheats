@@ -22,6 +22,14 @@ https://i0.wp.com/ramok.tech/wp-content/uploads/2017/12/2017-12-31_01h31_40.jpg
 
 http://euler.stat.yale.edu/~tba3/stat665/lectures/lec18/notebook18.html
 
+VGG Net:
+
+https://www.quora.com/What-is-the-VGG-neural-network
+
+https://arxiv.org/pdf/1409.1556.pdf
+
+https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py
+
 Machine Learning
 
 https://stanford.edu/~shervine/teaching/cs-229.html
