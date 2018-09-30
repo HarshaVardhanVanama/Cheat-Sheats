@@ -30,6 +30,12 @@ https://arxiv.org/pdf/1409.1556.pdf
 
 https://github.com/fchollet/deep-learning-models/blob/master/vgg16.py
 
+ResNet:
+
+https://arxiv.org/pdf/1512.03385.pdf
+
+https://github.com/keras-team/keras/blob/master/keras/applications/resnet50.py
+ 
 Machine Learning
 
 https://stanford.edu/~shervine/teaching/cs-229.html
