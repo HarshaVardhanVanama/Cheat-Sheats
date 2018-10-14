@@ -6,6 +6,11 @@ https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c
 
 http://ufldl.stanford.edu/tutorial/
 
+Self Drivng Car :
+
+    End to End Learning : https://arxiv.org/pdf/1604.07316.pdf
+                          https://devblogs.nvidia.com/deep-learning-self-driving-cars/
+
 Transfer Learning 
 
 http://cs231n.github.io/transfer-learning/
