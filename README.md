@@ -6,6 +6,12 @@ https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c
 
 http://ufldl.stanford.edu/tutorial/
 
+Transfer Learning 
+
+http://cs231n.github.io/transfer-learning/
+
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
 Convolution Layer
 
 http://cs231n.github.io/convolutional-networks/
