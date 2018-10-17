@@ -6,6 +6,10 @@ https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c
 
 http://ufldl.stanford.edu/tutorial/
 
+Conv Nets Animations: 
+
+https://github.com/vdumoulin/conv_arithmetic?fbclid=IwAR0ECg1JgafY2Y1HqM-pG67-JXQFf4Dhu_yMICCDZVXunQSmzzMVPPkmHaQ
+
 Self Drivng Car :
 
     End to End Learning : https://arxiv.org/pdf/1604.07316.pdf
