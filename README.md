@@ -1,5 +1,9 @@
 # Links 
 
+Deep Reinforcement Learning
+
+https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR2x71WklSLWVb45_dyFnuXWNUQ4ept097HkHOj6guGSjPEedQXe0Rt2OIo
+
 Deep Learning
 
 https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b
