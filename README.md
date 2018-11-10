@@ -2,6 +2,8 @@
 
 handy resources to ml ***********
 
+https://montrealartificialintelligence.com/academy/?fbclid=IwAR08A93f2s4JmNXrRKg_LJYLuYb48qjvk23lbZA5ia4OrAykrnQgrsZuSb4#The-First-World-Class-Overview-of-AI-for-the-General-Public
+
 https://sgfin.github.io/learning-resources/?fbclid=IwAR32GschjDYfgC-KfBpb8W0irNqFQyqNLZpR2WTbGaenabG5cflTd1DFBT4
 
 Deep Reinforcement Learning
