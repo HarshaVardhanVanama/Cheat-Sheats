@@ -1,5 +1,9 @@
 # Links 
 
+handy resources to ml ***********
+
+https://sgfin.github.io/learning-resources/?fbclid=IwAR32GschjDYfgC-KfBpb8W0irNqFQyqNLZpR2WTbGaenabG5cflTd1DFBT4
+
 Deep Reinforcement Learning
 
 https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR2x71WklSLWVb45_dyFnuXWNUQ4ept097HkHOj6guGSjPEedQXe0Rt2OIo
